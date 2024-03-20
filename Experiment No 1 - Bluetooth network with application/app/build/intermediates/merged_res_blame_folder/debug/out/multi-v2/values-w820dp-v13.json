@@ -4,7 +4,7 @@
             "outputFile": "com.santossingh.bluetoothfiletransfer.app-mergeDebugResources-6:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\Bluetooth Application Experiment 1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 1 - Bluetooth network with application\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

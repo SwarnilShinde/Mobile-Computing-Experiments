@@ -4,7 +4,7 @@
             "outputFile": "com.santossingh.bluetoothfiletransfer.app-mergeDebugResources-6:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\Bluetooth Application Experiment 1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 1 - Bluetooth network with application\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\Bluetooth Application Experiment 1\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,1,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "129,16,76",
-                        "endColumns": "59,58,52",
-                        "endOffsets": "184,70,124"
-                    },
-                    "to": {
-                        "startLines": "251,252,253",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "16739,16799,16858",
-                        "endColumns": "59,58,52",
-                        "endOffsets": "16794,16853,16906"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\Bluetooth Application Experiment 1\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 1 - Bluetooth network with application\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -54,6 +37,23 @@
                         "endLines": "263",
                         "endColumns": "12",
                         "endOffsets": "17567"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 1 - Bluetooth network with application\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,1,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "129,16,76",
+                        "endColumns": "59,58,52",
+                        "endOffsets": "184,70,124"
+                    },
+                    "to": {
+                        "startLines": "251,252,253",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16739,16799,16858",
+                        "endColumns": "59,58,52",
+                        "endOffsets": "16794,16853,16906"
                     }
                 },
                 {

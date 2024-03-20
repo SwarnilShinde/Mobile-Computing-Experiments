@@ -21,12 +21,12 @@ com.notification.man.app-lifecycle-runtime-2.5.1-19 C:\Users\swarn\.gradle\cache
 com.notification.man.app-jetified-emoji2-views-helper-1.2.0-20 C:\Users\swarn\.gradle\caches\transforms-3\ef66750d44341521985085f234b11a88\transformed\jetified-emoji2-views-helper-1.2.0\res
 com.notification.man.app-lifecycle-viewmodel-2.5.1-21 C:\Users\swarn\.gradle\caches\transforms-3\f2489d9065f4dca5ca4b308de42fbf04\transformed\lifecycle-viewmodel-2.5.1\res
 com.notification.man.app-core-1.9.0-22 C:\Users\swarn\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\res
-com.notification.man.app-pngs-23 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\generated\res\pngs\debug
-com.notification.man.app-resValues-24 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\generated\res\resValues\debug
-com.notification.man.app-rs-25 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\generated\res\rs\debug
-com.notification.man.app-mergeDebugResources-26 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.notification.man.app-mergeDebugResources-27 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.notification.man.app-merged_res-28 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\build\intermediates\merged_res\debug
-com.notification.man.app-debug-29 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\debug\res
-com.notification.man.app-main-30 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\res
-com.notification.man.app-packaged_res-31 C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\notificationmanlib\build\intermediates\packaged_res\debug
+com.notification.man.app-pngs-23 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\generated\res\pngs\debug
+com.notification.man.app-resValues-24 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\generated\res\resValues\debug
+com.notification.man.app-rs-25 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\generated\res\rs\debug
+com.notification.man.app-mergeDebugResources-26 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.notification.man.app-mergeDebugResources-27 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.notification.man.app-merged_res-28 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\build\intermediates\merged_res\debug
+com.notification.man.app-debug-29 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\debug\res
+com.notification.man.app-main-30 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\res
+com.notification.man.app-packaged_res-31 C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\notificationmanlib\build\intermediates\packaged_res\debug

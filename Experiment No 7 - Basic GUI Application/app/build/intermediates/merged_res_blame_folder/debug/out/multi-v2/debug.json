@@ -1823,7 +1823,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3355,6 +3355,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "230"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "3842"
+                    }
+                },
+                {
                     "source": "C:\\Users\\swarn\\.gradle\\caches\\transforms-3\\ab16b2e2e5eceb327b59bc4f3e06ffc1\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -3393,7 +3412,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "795"
+                    },
+                    "to": {
+                        "startLines": "5821",
+                        "startColumns": "4",
+                        "startOffsets": "391745",
+                        "endLines": "5833",
+                        "endColumns": "12",
+                        "endOffsets": "392319"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values\\font_certs.xml",
                     "from": {
                         "startLines": "2,6,11",
                         "startColumns": "4,4,4",
@@ -3428,25 +3466,6 @@
                         "endLines": "8161,8167,8177,11483,11487",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "539187,539365,539649,660186,660313"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "230"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "20",
-                        "endColumns": "12",
-                        "endOffsets": "3842"
                     }
                 },
                 {
@@ -3486,6 +3505,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16,125,65,171",
+                        "endColumns": "48,45,59,58",
+                        "endOffsets": "60,166,120,225"
+                    },
+                    "to": {
+                        "startLines": "1619,1623,1634,1716",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "101458,102026,103118,115570",
+                        "endColumns": "48,45,59,58",
+                        "endOffsets": "101502,102067,103173,115624"
+                    }
+                },
+                {
                     "source": "C:\\Users\\swarn\\.gradle\\caches\\transforms-3\\57fa40c87617b400b03816871a4d774b\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -3502,23 +3538,6 @@
                         "endLines": "105,8031,9920,10004",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "8203,534722,603189,607705"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "9,7,4,8,2,3,5,6,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "354,275,145,315,55,100,189,232,407",
-                        "endColumns": "52,39,43,38,44,44,42,42,44",
-                        "endOffsets": "402,310,184,349,95,140,227,270,447"
-                    },
-                    "to": {
-                        "startLines": "591,592,593,594,818,819,830,831,833",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "32315,32368,32408,32452,48507,48552,49294,49337,49422",
-                        "endColumns": "52,39,43,38,44,44,42,42,44",
-                        "endOffsets": "32363,32403,32447,32486,48547,48592,49332,49375,49462"
                     }
                 },
                 {
@@ -3577,20 +3596,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\swarn\\Downloads\\Mobile-Computing-Experiments\\Experiment No 7 - Basic GUI Application\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1,3,2,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "16,125,65,171",
-                        "endColumns": "48,45,59,58",
-                        "endOffsets": "60,166,120,225"
+                        "startLines": "9,7,4,8,2,3,5,6,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "354,275,145,315,55,100,189,232,407",
+                        "endColumns": "52,39,43,38,44,44,42,42,44",
+                        "endOffsets": "402,310,184,349,95,140,227,270,447"
                     },
                     "to": {
-                        "startLines": "1619,1623,1634,1716",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "101458,102026,103118,115570",
-                        "endColumns": "48,45,59,58",
-                        "endOffsets": "101502,102067,103173,115624"
+                        "startLines": "591,592,593,594,818,819,830,831,833",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "32315,32368,32408,32452,48507,48552,49294,49337,49422",
+                        "endColumns": "52,39,43,38,44,44,42,42,44",
+                        "endOffsets": "32363,32403,32447,32486,48547,48592,49332,49375,49462"
                     }
                 },
                 {
@@ -3697,25 +3716,6 @@
                         "startOffsets": "95671",
                         "endColumns": "42",
                         "endOffsets": "95709"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\swarn\\Downloads\\MobileComputingPractical-main\\BASIC GUI APPLICATION EXP 7\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "795"
-                    },
-                    "to": {
-                        "startLines": "5821",
-                        "startColumns": "4",
-                        "startOffsets": "391745",
-                        "endLines": "5833",
-                        "endColumns": "12",
-                        "endOffsets": "392319"
                     }
                 },
                 {

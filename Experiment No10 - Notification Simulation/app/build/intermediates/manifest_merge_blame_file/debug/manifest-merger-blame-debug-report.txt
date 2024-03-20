@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml
+8-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml
+9-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:4:5-77
-11-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:4:22-74
+11-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:4:5-77
+11-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:4:22-74
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->[:notificationmanlib] C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\notificationmanlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
-12-->[:notificationmanlib] C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\notificationmanlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-64
+12-->[:notificationmanlib] C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\notificationmanlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+12-->[:notificationmanlib] C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\notificationmanlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-64
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
 13-->[androidx.work:work-runtime:2.7.1] C:\Users\swarn\.gradle\caches\transforms-3\182bca2da341b04c60f4588ceee2c16e\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
 13-->[androidx.work:work-runtime:2.7.1] C:\Users\swarn\.gradle\caches\transforms-3\182bca2da341b04c60f4588ceee2c16e\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
@@ -58,40 +58,40 @@
 30-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
 31
 32    <application
-32-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:6:5-23:19
+32-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:6:5-23:19
 33        android:allowBackup="false"
-33-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:7:9-36
+33-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:7:9-36
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 34-->[androidx.core:core:1.9.0] C:\Users\swarn\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 35        android:dataExtractionRules="@xml/data_extraction_rules"
-35-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:8:9-65
+35-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:8:9-65
 36        android:debuggable="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:9:9-43
+37-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:9:9-43
 38        android:label="@string/app_name"
-38-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:10:9-41
+38-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:10:9-41
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:11:9-54
+39-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:11:9-54
 40        android:supportsRtl="true"
-40-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:12:9-35
+40-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:12:9-35
 41        android:testOnly="true"
 42        android:theme="@style/AppTheme" >
-42-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:13:9-40
+42-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:13:9-40
 43        <activity
-43-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:14:9-22:20
+43-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:14:9-22:20
 44            android:name="com.notification.man.MainActivity"
-44-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:15:13-41
+44-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:15:13-41
 45            android:exported="true" >
-45-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:16:13-36
+45-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:16:13-36
 46            <intent-filter>
-46-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:17:13-21:29
+46-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:17:13-21:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:18:17-69
-47-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:18:25-66
+47-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:18:17-69
+47-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:18:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:17-77
-49-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:27-74
+49-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:17-77
+49-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:27-74
 50            </intent-filter>
 51        </activity>
 52
@@ -315,8 +315,8 @@
 164-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
 164-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 165                <category android:name="android.intent.category.LAUNCHER" />
-165-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:17-77
-165-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:27-74
+165-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:17-77
+165-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:27-74
 166            </intent-filter>
 167        </activity>
 168        <activity
@@ -331,8 +331,8 @@
 172-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
 172-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 173                <category android:name="android.intent.category.LAUNCHER" />
-173-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:17-77
-173-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:27-74
+173-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:17-77
+173-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:27-74
 174            </intent-filter>
 175        </activity>
 176        <activity
@@ -347,8 +347,8 @@
 180-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
 180-->[androidx.test:core:1.5.0] C:\Users\swarn\.gradle\caches\transforms-3\15101b48b28897338399b928b4d71182\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 181                <category android:name="android.intent.category.LAUNCHER" />
-181-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:17-77
-181-->C:\Users\swarn\Downloads\MobileComputingPractical-main\Notification Experiment 10\app\src\main\AndroidManifest.xml:20:27-74
+181-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:17-77
+181-->C:\Users\swarn\Downloads\Mobile-Computing-Experiments\Experiment No10 - Notification Simulation\app\src\main\AndroidManifest.xml:20:27-74
 182            </intent-filter>
 183        </activity>
 184
